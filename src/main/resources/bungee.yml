@@ -1,0 +1,4 @@
+name: StaffApplication
+version: ${project.version}
+main: com.github.thethingyee.staffapplication.StaffApplication
+description: Used for servers who need staff. This plugin is used for sharing the link to the form across the server.
